@@ -7,7 +7,7 @@
   font-family: 'Roboto', sans-serif;
 }
 body {
-  background-color: #273c75;
+  background-color: #C0C0C0;
   color: #f5f6fa;
 }
 .container {
@@ -76,7 +76,7 @@ header .profile-avatar {
 }
 .projects-list-item a {
   text-decoration: none;
-  background-color: #0097e6;
+  background-color: #FF4500;
   display: block;
   padding: 16px 20px;
   margin-bottom: 16px;
@@ -84,10 +84,10 @@ header .profile-avatar {
   text-align: center;
   color: #f5f6fa;
   border-radius: 30px;
-  border: 2px solid #0097e6;
+  border: 2px solid #FF4500;
   transition: all ease 0.5s;
 }
 .projects-list-item a:hover {
-  color: #0097e6;
+  color: #FF4500;
   background-color: transparent;
 }
